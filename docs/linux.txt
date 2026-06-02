@@ -1,0 +1,7 @@
+What is Linux?
+Linux is an open-source operating system used to manage computer hardware, files, and software.
+
+Three commands learned:
+mkdir – creates a folder
+cd – changes directory
+ls – lists files and folders
